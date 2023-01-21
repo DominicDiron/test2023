@@ -9,5 +9,10 @@ class sum
         System.out.println(a+b);
         
         // git stash command checking
+
+        // hello 1
+        // hello 2
+        //code added 3
+
     }
 }
