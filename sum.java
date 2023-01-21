@@ -7,5 +7,7 @@ class sum
         int c = 4;
         System.out.print("sum = ");
         System.out.println(a+b);
+        
+        // git stash command checking
     }
 }
